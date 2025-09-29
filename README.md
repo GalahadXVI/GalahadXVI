@@ -24,4 +24,4 @@ I'm a software engineer from Durham, United Kingdom and the founder of [Galahad 
 ² _Only importable via Github._
 
 ## Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GalahadXVI)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats) 
