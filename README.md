@@ -23,5 +23,5 @@ I'm a software engineer from Durham, United Kingdom and the founder of [Galahad 
 ¹ _The product has been sunset indefinitely. It's still possible for it to return in the future._\
 ² _Only importable via Github._
 
-## Streak
+## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GalahadXVI)](https://git.io/streak-stats)
